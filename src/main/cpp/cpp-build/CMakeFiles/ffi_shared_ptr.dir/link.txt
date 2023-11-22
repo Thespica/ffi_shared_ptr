@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC  -O3 -g -std=c++17 -Wall  -shared -Wl,-soname,libffi_shared_ptr.so -o libffi_shared_ptr.so CMakeFiles/ffi_shared_ptr.dir/clz.cc.o CMakeFiles/ffi_shared_ptr.dir/main.cc.o 

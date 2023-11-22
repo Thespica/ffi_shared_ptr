@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/john/ffi_shared_ptr/src/main/cpp/clz.h
+memory
+-
+
+/home/john/ffi_shared_ptr/src/main/cpp/main.cc
+iostream
+-
+memory
+-
+new
+-
+clz.h
+/home/john/ffi_shared_ptr/src/main/cpp/clz.h
+

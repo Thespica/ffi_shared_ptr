@@ -1,0 +1,4 @@
+/home/john/ffi_shared_ptr/src/main/cpp/cpp-build/CMakeFiles/rebuild_cache.dir
+/home/john/ffi_shared_ptr/src/main/cpp/cpp-build/CMakeFiles/edit_cache.dir
+/home/john/ffi_shared_ptr/src/main/cpp/cpp-build/CMakeFiles/main.dir
+/home/john/ffi_shared_ptr/src/main/cpp/cpp-build/CMakeFiles/ffi_shared_ptr.dir
